@@ -94,7 +94,7 @@ Add some screenshots of your project here to make it visually appealing.
 
 ## 🖼️ Image Demo Links
 
-![home](https://drive.google.com/file/d/1XrcBni9oDxpTETHoW2YFpl13t-LOUxBU/view?usp=sharing)  
+![home](https://drive.google.com/file/d/1XrcBni9oDxpTETHoW2YFpl13t-LOUxBU/view)  
 ![about](https://drive.google.com/file/d/1ZPxg6L-Zl0aqZNL5A0lwC7kYDNr0Z93b/view?usp=sharing)  
 ![about-1](https://drive.google.com/file/d/1348PtDMVntO-BIggJ0bQelgmTe8tMhwb/view?usp=sharing)  
 ![services](https://drive.google.com/file/d/1N3L5JJZwSwV8Jd_hw0VjMwjUla6ZI8nq/view?usp=sharing)  

@@ -94,16 +94,15 @@ Add some screenshots of your project here to make it visually appealing.
 
 ## 🖼️ Image Demo Links
 
-![home](https://drive.google.com/file/d/1XrcBni9oDxpTETHoW2YFpl13t-LOUxBU/view?usp=sharing)  
-![about](https://drive.google.com/file/d/1ZPxg6L-Zl0aqZNL5A0lwC7kYDNr0Z93b/view?usp=sharing)  
-![about-1](https://drive.google.com/file/d/1348PtDMVntO-BIggJ0bQelgmTe8tMhwb/view?usp=sharing)  
-![services](https://drive.google.com/file/d/1N3L5JJZwSwV8Jd_hw0VjMwjUla6ZI8nq/view?usp=sharing)  
-![feedback](https://drive.google.com/file/d/1nMrJxr_W7TpMiG_S8fCpelPtiCcSgwR_/view?usp=sharing)  
-![feedback-1](https://drive.google.com/file/d/1MSWxAs_hNLw4_A7XnypF8kcBbT0lEL9s/view?usp=sharing)  
-![booking](https://drive.google.com/file/d/1oHxUQvmd0Vnv55-i3xTRfP45i3XtuF6I/view?usp=sharing)  
-![contactus](https://drive.google.com/file/d/1oHxUQvmd0Vnv55-i3xTRfP45i3XtuF6I/view?usp=sharing)  
-![foster](https://drive.google.com/file/d/1OYvh36K-k7ny3cgQOrirIUfBQe1E-zoI/view?usp=sharing)  
+![home](https://drive.google.com/uc?export=view&id=1XrcBni9oDxpTETHoW2YFpl13t-LOUxBU)  
+![about](https://drive.google.com/uc?export=view&id=1ZPxg6L-Zl0aqZNL5A0lwC7kYDNr0Z93b)  
+![about-1](https://drive.google.com/uc?export=view&id=1348PtDMVntO-BIggJ0bQelgmTe8tMhwb)  
+![services](https://drive.google.com/uc?export=view&id=1N3L5JJZwSwV8Jd_hw0VjMwjUla6ZI8nq)  
+![feedback](https://drive.google.com/uc?export=view&id=1nMrJxr_W7TpMiG_S8fCpelPtiCcSgwR_)  
+![feedback-1](https://drive.google.com/uc?export=view&id=1MSWxAs_hNLw4_A7XnypF8kcBbT0lEL9s)  
+![booking](https://drive.google.com/uc?export=view&id=1oHxUQvmd0Vnv55-i3xTRfP45i3XtuF6I)  
+![contactus](https://drive.google.com/uc?export=view&id=1oHxUQvmd0Vnv55-i3xTRfP45i3XtuF6I)  
+![foster](https://drive.google.com/uc?export=view&id=1OYvh36K-k7ny3cgQOrirIUfBQe1E-zoI)  
 
 ---
-https://drive.google.com/file/d/1XrcBni9oDxpTETHoW2YFpl13t-LOUxBU/view?usp=sharing
 Made with ❤️ by **Shubu / Shubham Sharma**
